@@ -1,4 +1,14 @@
 {
   "name": "@vhung.luu/hung",
-  "version": "0.0.1"
+  "version": "0.0.2",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "luuvinhhung/hung",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "luuvinhhung"
+  ]
 }
